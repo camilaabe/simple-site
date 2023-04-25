@@ -1,5 +1,5 @@
 #Reading List
 
-- *Papers on:*
+*Papers on:*
 - Hydrology
-- Pasture nutrition
+- Pasture quality
