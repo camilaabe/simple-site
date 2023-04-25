@@ -7,3 +7,5 @@ Geography Department
 - Remote sensing
 - Spatial Analysis
 - Pasture quality and water availability in Rondônia
+
+See my [Reading List] (reading-list.html)
