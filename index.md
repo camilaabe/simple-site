@@ -1,5 +1,5 @@
 ---
-title: Changed title
+title: Team
 ---
 
 # Camila Abe
